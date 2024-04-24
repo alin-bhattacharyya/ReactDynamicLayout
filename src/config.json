@@ -1,0 +1,18 @@
+{
+    "pages": {
+      "page1": {
+        "layout": "layout1",
+        "component": "Page1",
+        "props": {
+          "title": "Welcome to Page 1!"
+        }
+      },
+      "page2": {
+        "layout": "layout2",
+        "component": "Page2",
+        "props": {
+          "message": "Welcome to Page 2!"
+        }
+      }
+    }
+   }
